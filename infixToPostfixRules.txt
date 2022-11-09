@@ -1,0 +1,7 @@
+infix to postfix
+()
+^ R-L
++- L-R
+*/ L-R
+
+pop when precedence of incoming is lower or if associativity is L-R
